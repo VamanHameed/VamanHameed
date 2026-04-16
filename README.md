@@ -33,7 +33,7 @@ I enjoy creating solutions that make manual tasks faster and more reliable.
 ---
 
 ### 📫 Connect with Me
-- **LinkedIn:** [Hameedullah M](https://www.linkedin.com/in/hameedathick/)
+- **LinkedIn:** [Hameedullah M](https://www.linkedin.com/in/hameedullahm/)
 - **Email:** vamanhameed@gmail.com
 
 *"The best way to predict the future is to automate it."*
