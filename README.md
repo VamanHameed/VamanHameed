@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Hameedullah M
-### IT Automation Engineer | Python Developer | Systems Specialist
+### IT Support Engineer | Python Automation | Systems Specialist
 
-I am a problem-solver at heart, currently working as an **IT Support Engineer at Amazon**. I specialize in bridging the gap between traditional IT operations and modern software engineering by building tools that automate repetitive tasks, improve system reliability, and leverage the power of **Local AI**.
+I am an **IT Support Engineer at Amazon** with a strong focus on Python and automation. I enjoy resolving complex technical issues and building tools that help streamline IT workflows and improve daily operational efficiency.
 
 ---
 
-### 🚀 What I'm Building
-I don't just fix IT problems; I build systems to ensure they never happen again.
+### 🚀 Projects & Automation
+I enjoy creating solutions that make manual tasks faster and more reliable.
 
 - **[Local Voice Typist](https://github.com/VamanHameed/Local-Voice-Typist):** A privacy-first, 100% offline dictation tool built with Python and Faster-Whisper.
 - **JobHunter Pro:** An automated AI engine that finds, scores, and tailors job applications using Google Gemini.
